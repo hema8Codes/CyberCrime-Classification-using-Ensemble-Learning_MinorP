@@ -1,6 +1,8 @@
 # CyberCrime-Classification-using-Ensemble-Learning
 Ensem_SLDR which can predict the relevant sections of IT Act 2000 from the compliant text with the aid of Natural Language Processing, Machine Learning, and Ensemble Learning methods
 
+Link to my Research Paper -> [Ensem_SLDR: Classification of Cybercrime using Ensemble Learning Technique](https://www.mecs-press.org/ijcnis/ijcnis-v14-n1/v14n1-7.html "Ensem_SLDR")    
+
 <h3 align="left">About the Project</h3>
 
 With the advancement of technology, cybercrimes are surging at an alarming rate as
