@@ -20,7 +20,7 @@ and Random Forest and gave better performance by having 96.55 % as testing preci
 which is higher than the past model implemented using a single learning algorithm.
 
 
-![Flowchart](/images/Minorproject_stack.jpg)
+//![Flowchart](/images/Minorproject_stack.jpg)
 
 <h3 align="left">Functionality</h3>
 
